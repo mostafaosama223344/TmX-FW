@@ -1,6 +1,6 @@
 
 #my instagram @ks.ZP_ 
-#by MoMuiL Al-Iraqi
+#by mostafa osama
 #F16 Groub
 #Thank's 4 me 3:
 print "follow me instagram @KS.ZP_"
